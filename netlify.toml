@@ -19,10 +19,10 @@
 # deploy contexts will inherit these settings.
 [context.production]
   publish = "public/"
-  command = "hugo --gc --minify -t ../.. -d ../docs -v -b /"
+  command = "hugo --gc --minify "
 
 # Deploy Preview context: all deploys resulting from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
   publish = "docs/"
-  command = "hugo --gc --minify -t ../.. -d ../docs -v -b /"
+  command = "hugo --gc --minify "
