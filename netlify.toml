@@ -21,7 +21,7 @@
   publish = "public/"
   #command = "hugo --gc --minify "
 
-  command = "HUGO_THEME=introduction hugo --gc --minify --themesDir themes/ -v -b / -d ./docs"
+  command = "HUGO_THEME=hugo-theme-introduction hugo --gc --minify --themesDir ./themes/ -v -b / -d ./docs"
 # Deploy Preview context: all deploys resulting from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
