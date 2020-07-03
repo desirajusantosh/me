@@ -78,8 +78,8 @@ canonifyURLs 			 = true
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Santosh Desiraju"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Santosh Desiraju's web site"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
