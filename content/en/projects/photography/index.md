@@ -1,8 +1,8 @@
 ---
-title: "Photography"
+title: "Pictures"
 weight: 1
 ---
 
-## Sometimes I take pictures
+## Some moments I've captured
 
-This project is about the pictures I take. Sometimes, they are pictures of cats.
+This project is about the pictures I take.

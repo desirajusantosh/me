@@ -6,4 +6,4 @@ draft: false
 tags: ["blog","code"]
 ---
 
-Hello World, after several failed attempts. Here I'm with my space on the internet.
+Hello World, after several attempts. Here I'm with my space on the internet.
