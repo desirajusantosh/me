@@ -2,14 +2,14 @@ baseURL                          = "https://desirajusantosh.github.io/me/"  # Yo
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                  = "UA-172126345-1"                       # https://gohugo.io/templates/internal/#google-analytics
 canonifyURLs 			 = true
 
 [params]
     themeStyle                   = "dark"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
-    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "lastnamefirstname@gmail.com"   # E-mail address for contact section
