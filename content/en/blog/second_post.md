@@ -2,9 +2,13 @@
 title: "Run up to running"
 weight: 2
 resources:
-    - src: strava1.jpg
+     src: strava1.jpg
       params:
           weight: -100
+date: 2020-10-07T20:18:53-05:00
+showDate: false
+draft: false
+tags: ["blog","run"]
 ---
 
 Consistency is key. 💪 
