@@ -3,8 +3,6 @@ title: "Run up to running"
 weight: 2
 resources:
 params:
-image: 
-weight: -100
 date: 2020-10-07T20:18:53-05:00
 showDate: false
 draft: false
