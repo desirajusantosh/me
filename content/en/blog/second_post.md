@@ -17,4 +17,4 @@ When the activity is not yet a habit, progress straddles on consistency. I've be
 
 Tracking app of choice/trial: Strava 
 
-![Sample image](strava1.png)
+![Sample image](strava1.jpg)
