@@ -12,8 +12,7 @@ canonifyURLs 			 = true
     fadeIn                       = false                    # Turn on/off the fade-in effect
     fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "Email"   # E-mail address for contact section
-    # email                        = "mailto:desirajusantosh@gmail.com"   # E-mail address for contact section
+    email                        = "desirajusantosh@gmail.com"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
