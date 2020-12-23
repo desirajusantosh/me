@@ -24,7 +24,7 @@ Let me talk about the product bug and then we can look at the infra bug because 
 
 Robinhood provides an opportunity to 2FA using Text or Email but once I select Email I get an error stating 'Email code is no longer supported. Please request SMS code sent to your phone number.'
 
-![Sample imag](ttps://s3-us-west-2.amazonaws.com/secure.notion-static.com/4fd1cf61-32f6-42d8-80d3-673168379bd8/Untitled.png)
+![Sample imag](/static/img/login.jpeg)
 
 Couple of issues with this:
 
@@ -38,4 +38,4 @@ While on the Ethereum's trading page, there is an option to place Limit or Marke
 1. Firstly, I'm not sure where this error is being caused as there is no callout.
 2. Even if this was a plausible error, can it be in a more human readable format?
 
-![Sample image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5d1f87f-506b-413b-8469-d724d99d9b1c/Untitled.png)
+![Sample image](/static/img/glitch.jpeg)
