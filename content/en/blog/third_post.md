@@ -39,3 +39,7 @@ While on the Ethereum's trading page, there is an option to place Limit or Marke
 2. Even if this was a plausible error, can it be in a more human readable format?
 
 ![Sample image](/blog/glitch.jpeg)
+
+![Sample gif](/img/screencap.gif.gif)
+
+
