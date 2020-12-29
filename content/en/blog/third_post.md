@@ -24,7 +24,7 @@ Let me talk about the product bug and then we can look at the infra bug because 
 
 Robinhood provides an opportunity to 2FA using Text or Email but once I select Email I get an error stating 'Email code is no longer supported. Please request SMS code sent to your phone number.'
 
-![Sample imag](/blog/login.jpeg)
+![Sample imag](/blog/login.jpeg "Sign-in 2FA page")
 
 Couple of issues with this:
 
@@ -38,12 +38,12 @@ While on the Ethereum's trading page, there is an option to place Limit or Marke
 1. Firstly, I'm not sure where this error is being caused as there is no callout.
 2. Even if this was a plausible error, can it be in a more human readable format?
 
-![Sample image](/blog/glitch.jpeg)
+![Sample image](/blog/glitch.jpeg "Textbox error")
 
 ![Sample gif](/img/screencap.gif.gif)
 
 Solution
-
+------
 Currently, the sign in process on web seems to be supporting only Text 2FA. Which is still fine as long as the user experience is addressed. If the user requests Email 2FA the page just returns an Error which is not intuitive. 
 
 In order to go forward with a solution, need to figure roadmap for 2FA. Should 2FA support both text and email? Once this is clear, the use case will be clear resulting in either bringing back text 2FA  support or updating UI to reflect roadmap.
@@ -66,5 +66,5 @@ Robinhood would definitely benefit by developing a customer support platform whi
 
 Providing a way to attach images should help with majority of the problems - categorized and non-categorized. While being just a small enhancement over the existing infrastructure. Most of platforms today also support in-line feedback while this has its own pros and cons, needs further deliberation and changes on the platform to implement.
 
-***
+___
 To Robinhood, I hope my brainstorming in this blog post; with proposals to fix the user experience, can be received as direct feedback.
