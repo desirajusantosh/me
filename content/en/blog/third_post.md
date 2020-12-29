@@ -21,7 +21,7 @@ Quite often I logon to the web interface to analyze the charts on my bigger scre
 Let me talk about the product bug and then we can look at the infra bug because I've identified the issues in this order during my journey.
 
 ###### Sign in process - 2FA
-
+######
 Robinhood provides an opportunity to 2FA using Text or Email but once I select Email I get an error stating 'Email code is no longer supported. Please request SMS code sent to your phone number.'
 
 ![Sample imag](/blog/login.jpeg "Sign-in 2FA page")
@@ -32,7 +32,7 @@ Couple of issues with this:
 2. Why is it not supported now? Is it a temporary issue in the backend?
 
 ###### Corner case while making a Buy Order
-
+######
 While on the Ethereum's trading page, there is an option to place Limit or Market Orders. While trying to place a Limit order I hit into a conditional check for the input I provided.
 
 1. Firstly, I'm not sure where this error is being caused as there is no callout.
@@ -61,7 +61,6 @@ I then looked at how some of the competition is taking care of this feedback loo
 Robinhood would definitely benefit by developing a customer support platform which is live, in the long term. But, couple of good starting points in the short-term would be 
 
 1. Provided a way to attach images in feedback
-
 2. Providing in-line feedback
 
 Providing a way to attach images should help with majority of the problems - categorized and non-categorized. While being just a small enhancement over the existing infrastructure. Most of platforms today also support in-line feedback while this has its own pros and cons, needs further deliberation and changes on the platform to implement.
