@@ -42,4 +42,29 @@ While on the Ethereum's trading page, there is an option to place Limit or Marke
 
 ![Sample gif](/img/screencap.gif.gif)
 
+Solution
 
+Currently, the sign in process on web seems to be supporting only Text 2FA. Which is still fine as long as the user experience is addressed. If the user requests Email 2FA the page just returns an Error which is not intuitive. 
+
+In order to go forward with a solution, need to figure roadmap for 2FA. Should 2FA support both text and email? Once this is clear, the use case will be clear resulting in either bringing back text 2FA  support or updating UI to reflect roadmap.
+
+As to the Error/bug in the box, rigorous testing on production needs to be in place. Taking into account various possible edge cases. 
+
+Feedback for future issues
+
+Given issues and bugs like this are inevitable, a solid pipeline can help identify, root-cause and fix things soon. I tried to look up the existing mechanism in place for reporting issues/feedback. There are 2 places I looked at: Help Center and Support. Help Center has indexed pre-written content. I couldn't find anything on the issues I faced. So, next was to look at Support page. This page provided dropdown menus to narrow down the context and subsequently report the feedback or issue. 
+
+While rummaging within these drop-down menus, I couldn't find any closest category. Then I went ahead selecting 'Other' categories and reached a page which provided an Email feedback textbox. But, I was unsure how this textual description could be helpful or spot-on for abstract situations like the issue I faced. Even avid users might just drop out somewhere in this pipeline failing to provide constructive feedback.
+
+I then looked at how some of the competition is taking care of this feedback loop. Another service I use is E*trade. Even though its not a direct competitor, E*trade has a full-fledged customer support page with live chat. My experience with that live chat was not a breeze as it took around ~45 minute wait. Nevertheless, providing customer support with live chat is a solid system but needs lot of resources. 
+
+Robinhood would definitely benefit by developing a customer support platform which is live, in the long term. But, couple of good starting points in the short-term would be 
+
+#1 Provided a way to attach images in feedback
+
+#2 Providing in-line feedback
+
+Providing a way to attach images should help with majority of the problems - categorized and non-categorized. While being just a small enhancement over the existing infrastructure. Most of platforms today also support in-line feedback while this has its own pros and cons, needs further deliberation and changes on the platform to implement.
+
+***
+To Robinhood, I hope my brainstorming in this blog post; with proposals to fix the user experience, can be received as direct feedback.
