@@ -3,7 +3,7 @@ title: "My favorite product coming out of the pandemic"
 weight: 2
 resources:
 params:
-date: 
+date: 2021-06-05T18:00:53-05:00
 showDate: false
 draft: false
 tags: ["blog","product"]
