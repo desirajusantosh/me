@@ -2,7 +2,7 @@ baseURL                          = "https://desirajusantosh.github.io/me/"  # Yo
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-googleAnalytics                  = "UA-172126345-1"                       # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                  = "G-152PCJSKRY"                       # https://gohugo.io/templates/internal/#google-analytics
 canonifyURLs 			 = true
 
 [params]
