@@ -1,5 +1,5 @@
 ---
-title: "Links (sometimes distracting) to a different world"
+title: "Links "
 weight: 1
 ---
 
