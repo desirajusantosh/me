@@ -79,6 +79,13 @@ df[df['start'].notna()]
 # Default value of ignore_index is False
 df3 = df1.append(df2,ignore_index=True)
 
+# Inserting column
+df = df.assign(new_col_name=[3,7,4])
+df = df.insert(3,'new_col_name',[3,7,4])
+
+# Lambda 
+#lambda x: x.points / 2
+
 ## String operations
 
 ## Comprehensions for performing multiple string operations
