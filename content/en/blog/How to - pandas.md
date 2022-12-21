@@ -86,6 +86,12 @@ df3 = df1.append(df2,ignore_index=True)
 
 
 ## Groupby
+#Printing grouped df
+df.groupby('A').apply(print)
+df.groupby(by).apply(lambda a: a[:])
+df.groupby(by).apply(lambda a: a.drop(by, axis=1)[:])
+
+
 (df.groupby("Groups", as_index=False)
            .agg({"Date":"first", "data1":"sum", "data2":"sum"}))
 Out[5]:
