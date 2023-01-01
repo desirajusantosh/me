@@ -75,6 +75,11 @@ df.dropna(subset=["name","id"])
 #Dropping NaN rows specific column
 df[df['start'].notna()]
 
+#Dropping columns
+df = df.drop('id')
+#or
+df.drop('id',inplace=True)
+
 ## Combining dataframes
 # Default value of ignore_index is False
 df3 = df1.append(df2,ignore_index=True)
@@ -90,7 +95,12 @@ df = df.insert(3,'new_col_name',[3,7,4])
 
 ## Comprehensions for performing multiple string operations
 
-
+## Accessing
+#Accessing entire row - returns series
+df.iloc[0]
+#Accessing value 
+df.iat[0,1]
+#Accessing value by converting to numpy array
 
 ## Groupby
 #Printing grouped df
