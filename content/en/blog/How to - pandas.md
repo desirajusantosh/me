@@ -46,6 +46,8 @@ df.reset_index()
 df.reset_index(drop=True)
 # Searching becomes easy with indexing
 df.loc[50]
+df.loc[df['start'].str.endswith("999")]
+df.loc[df['name'].isin.(['alex','jim'])]
 
 ## High level info and stats
 df.info()
@@ -101,6 +103,17 @@ df.iloc[0]
 #Accessing value 
 df.iat[0,1]
 #Accessing value by converting to numpy array
+
+df['name'].tolist()
+df['name'].values.tolist()
+list(df['name'])
+
+## Adding to a dataframe
+# Append a list
+df = df.append([list1])
+
+# Concat 2 dataframes
+df_new = pd.concat([df1,df2])
 
 ## Groupby
 #Printing grouped df
