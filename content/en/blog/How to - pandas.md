@@ -93,7 +93,15 @@ df = df.insert(3,'new_col_name',[3,7,4])
 # Lambda 
 #lambda x: x.points / 2
 
+## Renaming column
+df.rename({'name':'NAME'})
+df.rename(columns = str.upper)
+
+df.columns = ['NAME','START']
+
 ## String operations
+regex = 'J.*'
+df[df.name.str.match(regex)]
 
 ## Comprehensions for performing multiple string operations
 
@@ -125,5 +133,9 @@ df.groupby(by).apply(lambda a: a.drop(by, axis=1)[:])
 (df.groupby("Groups", as_index=False)
            .agg({"Date":"first", "data1":"sum", "data2":"sum"}))
 Out[5]:
+
+Reference:
+https://sparkbyexamples.com/pandas/pandas-groupby-sum-examples/
+https://realpython.com/pandas-groupby/
 
 ```
