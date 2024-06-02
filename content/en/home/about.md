@@ -4,8 +4,10 @@ image: "profile.jpg"
 weight: 8
 ---
 
-This is **Santosh**. I'm creative at heart with heavy tech and design obsession. Currently living and working in the bay area. I work at the intersection of product and advanced hardware/software development. Inspired by the fact that small product decisions make huge impact for users.  
+👋, I'm Santosh! I live in the Bay Area working at the intersection of product and cutting-edge hardware/software development. I'm passionate about how thoughtful product decisions can make a huge impact on people's lives.
 
-Having a passion for volunteering, I've been involved with organizations which support STEM & mental health. At the moment, I volunteer as a Crisis Counselor at Crisis Text Line.
+Beyond tech, I'm driven to give back. I most recently volunteered as a Crisis Counselor at Crisis Text Line and am actively involved with organizations supporting STEM education and mental health initiatives.
 
-Some of my interests in no particular order: travel hacking, poker, working out, active leasure, tea, design, photography, dogs. I'm always happy to have conversations surrounding these or anything in general. Drop me a line. 
+When I'm not brainstorming the next big thing, you might find me travel hacking my way to a new adventure, mastering a poker strategy, or hitting the gym for an active leisure session. Throw in some tea, design inspiration, photography, and the company of a furry friend, and that's my happy place.
+
+I'm always up for a conversation, whether it's about these interests or anything else under the sun. Feel free to drop me a line!
