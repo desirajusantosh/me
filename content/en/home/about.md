@@ -4,7 +4,7 @@ image: "profile.jpg"
 weight: 8
 ---
 
-👋, I'm Santosh! I live in the Bay Area working at the intersection of product and cutting-edge hardware/software development. I'm passionate about how thoughtful product decisions can make a huge impact on people's lives.
+👋, I'm Santosh! I work at the intersection of product and cutting-edge hardware/software development, living in the Bay areea. I'm passionate about how thoughtful product decisions can make a huge impact on people's lives.
 
 Beyond tech, I'm driven to give back. I most recently volunteered as a Crisis Counselor at Crisis Text Line and am actively involved with organizations supporting STEM education and mental health initiatives.
 
