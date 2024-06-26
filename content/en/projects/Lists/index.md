@@ -1,9 +1,9 @@
 ---
-title: "Links "
+title: "Rabbit holes "
 weight: 1
 ---
 
-## Lists I've captured 
+## Links I've captured
 
 
 [Common probability distributions](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
