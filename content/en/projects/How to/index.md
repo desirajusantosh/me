@@ -1,9 +1,12 @@
 ---
-title: "How to "
+title: "Restaurant recommendations "
 weight: 1
 ---
 
-## How to do stuff
+## Restaurant recommendations
 
-
-[Anna Syme's How to](https://www.annasyme.com/howto.html)
+Bay Area
+[Terun](https://www.yelp.com/biz/ter%C3%BAn-palo-alto-3)
+[Vesta](https://www.yelp.com/biz/vesta-redwood-city?osq=Vesta)
+[Shizen](https://www.yelp.com/biz/shizen-vegan-sushi-bar-and-izakaya-san-francisco)
+[Wildseed](https://www.wildseedsf.com/)
