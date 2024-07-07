@@ -1,5 +1,5 @@
 ---
-title: "How to - Markdown"
+title: "Markdown Mastery: A Procrastinator's Guide to Formatting"
 weight: 2
 resources:
 params:
