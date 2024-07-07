@@ -1,13 +1,13 @@
 ---
-title: "How to - Working with Markdown"
+title: "How to - Markdown"
 weight: 2
 resources:
 params:
-date: 2022-06-05T18:00:53-05:00
+date: 2024-2-1T18:00:53-05:00
 showDate: false
 draft: false
-tags: ["blog","product"]
-------
+tags: ["blog","howto"]
+---
 
 
 Ever find yourself staring at a blank text file, trying to remember how to make text bold or create a heading? You're not alone! As a sporadic blogger, I've been there. Let's dive into the world of Markdown - the secret weapon for forgetful writers like us.
