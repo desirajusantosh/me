@@ -3,10 +3,10 @@ title: "Solving the VM Screen Resolution Puzzle: A Quick Guide"
 weight: 2
 resources:
 params:
-date: 2023-12-19T18:00:53-05:00
+date: 2022-06-05T18:00:53-05:00
 showDate: false
 draft: false
-tags: ["blog","howto"]
+tags: ["blog","product"]
 ---
 
 Have you ever struggled with a virtual machine that just won't fit your screen? I certainly have, and let me tell you, it is frustrating. 
