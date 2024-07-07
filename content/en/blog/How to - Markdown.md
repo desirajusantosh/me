@@ -9,10 +9,11 @@ draft: false
 tags: ["blog","howto"]
 ---
 
-#Adding headings
-#Heading 1
-##Heading 2
-###Heading 3
+# Adding headings
+# Heading 1 
+## Heading 2
+### Heading 3
+Note the space between # and the heading text
 
 Quite a few features are intuitive. Like creating bullets and numbering:
 - Create a bullet
@@ -26,7 +27,7 @@ a) alphanumeric
 Emphasizing with **bold** 
 or *italic* 
 
-*Most importantly* do not forget to save your file as .md
+**Most importantly** do not forget to save your file as .md
 
 `inline code`
 ```print("hello world")```
