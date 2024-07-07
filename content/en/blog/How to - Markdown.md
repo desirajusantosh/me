@@ -19,8 +19,14 @@ Quite a few features are intuitive. Like creating bullets and numbering:
   * Create a bullet with *
 + Or even a +
 
-1. Numbering using numbers or even 
-a. alphanumeric
+1. Numbering using numbers 
+a. alphanumeric doesn't work 
 a) alphanumeric
 
+Emphasizing with **bold** 
+or *italic* 
 
+*Most importantly* do not forget to save your file as .md
+
+`inline code`
+```print("hello world")```
