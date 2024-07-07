@@ -3,7 +3,7 @@ title: "How to - Working with Markdown"
 weight: 2
 resources:
 params:
-date: 2023-1-29T18:00:53-05:00
+date: 2024-1-2T18:00:53-05:00
 showDate: false
 draft: false
 tags: ["blog","howto"]
