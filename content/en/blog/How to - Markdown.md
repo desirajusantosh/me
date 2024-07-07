@@ -14,5 +14,13 @@ tags: ["blog","howto"]
 ##Heading 2
 ###Heading 3
 
-Creating bullets and numbering
+Quite a few features are intuitive. Like creating bullets and numbering:
+- Create a bullet
+  * Create a bullet with *
++ Or even a +
+
+1. Numbering using numbers or even 
+a. alphanumeric
+a) alphanumeric
+
 
