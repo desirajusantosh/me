@@ -8,7 +8,7 @@ weight: 1
 Here is a list of my hardware, software: \
 [Standing desk] (https://www.wayfair.com/brand/bnd/upper-square-b51050-masterClID~32.html) \
 Work laptops: Dell / Lenovo Thinkpads \
-Dell Monitor \
+Dell Monitor 
 
 # Off desk:
 [Bose earbuds] (https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) \ 
