@@ -9,6 +9,16 @@ Here is a list of my hardware, software: \
 [Standing desk](https://www.wayfair.com/brand/bnd/upper-square-b51050-masterClID~32.html) \
 Work laptops: Dell / Lenovo Thinkpads \
 Dell Monitor 
+[External SSD]()
+
+Apps:
+[Brave browser](https://brave.com/)
+
+Smart home:
+[Ring Stick up cam](https://ring.com/products/stick-up-cam/color/white/power/battery/multipack/3-pack)
+Bseed Voltage protector
+[GE Cync Switches](https://www.gelighting.com/smart-home/light-switches-remotes/wired-switches) 
+[Marshall speaker](https://www.marshall.com/us/en/product/acton-iii?pid=1006008)
 
 # Off desk:
 [Bose earbuds](https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) \
