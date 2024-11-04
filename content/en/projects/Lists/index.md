@@ -11,7 +11,7 @@ Work laptops: Dell / Lenovo Thinkpads \
 Dell Monitor 
 
 # Off desk:
-[Bose earbuds](https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) 
+[Bose earbuds](https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) \
 [Garmin Forerunner 965](https://www.garmin.com/en-US/p/886725)
 
 <!--- Comments are Fun  [Distracting links](https://www.annasyme.com/links-distracting.html) \
