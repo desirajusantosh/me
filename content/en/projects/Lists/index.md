@@ -14,13 +14,13 @@ Dell Monitor \
 Apps:
 [Brave browser](https://brave.com/)
 
-Smart home:
+## Smart home:
 [Ring Stick up cam](https://ring.com/products/stick-up-cam/color/white/power/battery/multipack/3-pack) \
 Bseed Voltage protector \
 [GE Cync Switches](https://www.gelighting.com/smart-home/light-switches-remotes/wired-switches) \
 [Marshall speaker](https://www.marshall.com/us/en/product/acton-iii?pid=1006008) 
 
-# Off desk:
+## Off desk:
 [Bose earbuds](https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) \
 [Garmin Forerunner 965](https://www.garmin.com/en-US/p/886725) \
 [Sony a6000](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6000l-b)
