@@ -22,7 +22,7 @@ Bseed Voltage protector \
 
 # Off desk:
 [Bose earbuds](https://www.bose.com/p/earbuds/bose-quietcomfort-headphones/QCEARB24-HEADPHONEIN.html) \
-[Garmin Forerunner 965](https://www.garmin.com/en-US/p/886725)
+[Garmin Forerunner 965](https://www.garmin.com/en-US/p/886725) \
 [Sony a6000](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6000l-b)
 
 <!--- Comments are Fun  [Distracting links](https://www.annasyme.com/links-distracting.html) \
