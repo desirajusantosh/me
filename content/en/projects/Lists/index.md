@@ -12,6 +12,7 @@ Dell Monitor \
 [External SSD](https://shop.sandisk.com/products/clearance/portable-ssd/sandisk-usb-3-2-ssd?sku=SDSSDE30-1T00-G25&ef_id=Cj0KCQiA_qG5BhDTARIsAA0UHSJQVKrxJrT_xH13gttfHxAhWipttM50Ombi0n4wA7DyjfS6W7WU_7gaAvHkEALw_wcB:G:s&s_kwcid=AL!15012!3!!!!x!!!21830352660!&utm_medium=pdsh2&utm_source=gads&utm_campaign=Google-B2C-Conversion-Pmax-NA-US-EN-SSD-Portable_SSD-All-Brand&utm_content=&utm_term=SDSSDE30-1T00-G25&cp2=&gad_source=1)
 
 Apps \
+[Duck Duck Go](https://duckduckgo.com) \
 [Brave browser](https://brave.com/) \
 [Spotify](https://open.spotify.com/)
 
