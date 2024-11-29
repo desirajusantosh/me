@@ -22,7 +22,7 @@ After countless Google searches which leads to stackoverflow and even asking AI 
   Click 'View' in the VirtualBox menu, then select 'Auto-resize Guest Display'. 
   And voilà! Your VM should now fit your screen like a glove.
 
-Virtualization not enabled    
+Virtualization not enabled:    
 Error message states: 
 Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE).
 VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED).
