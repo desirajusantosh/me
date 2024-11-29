@@ -12,7 +12,7 @@ A Quick Guide to cover the following:
 1. Enable full screen/Screen Resolution
 2. Virtualization not enabled
 
-Enable full screen/Screen Resolution
+Enable full screen/Screen Resolution:  
 Have you ever struggled with a virtual machine that just won't fit your screen? I certainly have, and let me tell you, it is frustrating. 
 After countless Google searches which leads to stackoverflow and even asking AI for help which sources probably from the same stackoverflow pages, I finally cracked the code. Here's my simple solution for resizing VMs to match your screen resolution:
 
@@ -22,7 +22,7 @@ After countless Google searches which leads to stackoverflow and even asking AI 
   Click 'View' in the VirtualBox menu, then select 'Auto-resize Guest Display'. 
   And voilà! Your VM should now fit your screen like a glove.
 
-Virtualization not enabled
+Virtualization not enabled    
 Error message states: 
 Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE).
 VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED).
