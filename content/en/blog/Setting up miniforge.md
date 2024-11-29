@@ -20,26 +20,26 @@ First, let's check if you have Python installed and where it's located:
 
 ```bash
 which python
-```bash
+
 This should return either empty or point to /usr/bin/python.
-2. Download Miniforge
+### 2. Download Miniforge
 Download the latest Miniforge installer:
 bash
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
 
-3. Install Miniforge
+### 3. Install Miniforge
 Run the installer:
 bash
 bash Miniforge3-Linux-x86_64.sh
 
 Follow the prompts to complete the installation.
-4. Verify Installation
+### 4. Verify Installation
 After installation, check your Python location again:
 bash
 which python
 
 It should now point to something like <path_to_home>/miniforge3/bin/python.
-5. Activate Miniforge Environment
+### 5. Activate Miniforge Environment
 Activate the base Miniforge environment:
 bash
 mamba activate
