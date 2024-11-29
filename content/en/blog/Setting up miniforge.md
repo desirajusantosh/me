@@ -20,7 +20,7 @@ First, let's check if you have Python installed and where it's located:
 
 ```bash
 which python
-
+```bash
 This should return either empty or point to /usr/bin/python.
 2. Download Miniforge
 Download the latest Miniforge installer:
