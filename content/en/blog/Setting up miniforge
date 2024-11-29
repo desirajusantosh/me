@@ -8,21 +8,6 @@ showDate: false
 draft: false
 tags: ["blog","howto"]
 ---
-Since the default python version installed in the system is not recommended. I went ahead a followed the setup steps listed in this link to have the right environment.
-
-which python
-Should return either empty or to /usr/bin/
-
-wget https://github.com/conda-forge/miniforge/releases/download/24.9.2-0/Miniforge3-Linux-x86_64.sh
-
-bash Miniforge3-Linux-x86_64.sh 
-
-which python
-<>/miniforge3/bin/python
-
-$ mamba deactivate
-$ mamba activate
-
 ## Why Use Miniforge?
 
 The default Python version installed on most systems is often outdated and not recommended for development. Miniforge provides a minimal installer for Conda, allowing you to create isolated Python environments with the latest versions and necessary packages.
