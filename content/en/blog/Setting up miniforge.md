@@ -18,7 +18,7 @@ The default Python version installed on most systems is often outdated and not r
 
 First, let's check if you have Python installed and where it's located:
 
-```bash
+
 which python
 
 This should return either empty or point to /usr/bin/python.
