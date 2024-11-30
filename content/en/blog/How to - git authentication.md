@@ -41,3 +41,8 @@ Once you have your PAT, you can use it in place of your password for Git operati
 - For HTTPS cloning, use this format:
 
 git clone https://your-personal-access-token@github.com/username/repo.git
+
+## Store credentials (optional):
+Create a file at ~/.git-credentials with this line:
+https://{username}:{personal_access_token}@github.com
+Run: git config --global credential.helper store
