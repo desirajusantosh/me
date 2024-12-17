@@ -3,11 +3,12 @@ title: "A Weekend Project: Reviving 2009 iMac - From El Capitan to Linux Mint"
 weight: 2
 resources:
 params:
-date: 2024-12-17T18:00:53-05:00
+date: 2024-06-05T18:00:53-05:00
 showDate: false
 draft: false
 tags: ["blog","travel"]
 ---
+
 ### A Weekend Project: Reviving My 2009 iMac - From El Capitan to Linux Mint
 This weekend turned into an unexpected tech adventure when I decided to breathe new life into my old iMac (2.66 GHz Intel Core 2 Duo, 8GB RAM, NVIDIA GeForce 9400 256MB). What started as a simple browser upgrade spiraled into a full system overhaul - and I learned quite a bit along the way.
 The macOS Struggle
