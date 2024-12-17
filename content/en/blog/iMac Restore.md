@@ -6,7 +6,7 @@ params:
 date: 2024-06-05T18:00:53-05:00
 showDate: false
 draft: false
-tags: ["blog","travel"]
+tags: ["blog"]
 ---
 
 ### A Weekend Project: Reviving My 2009 iMac - From El Capitan to Linux Mint
