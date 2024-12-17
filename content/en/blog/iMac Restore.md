@@ -3,7 +3,7 @@ title: "A Weekend Project: Reviving 2009 iMac - From El Capitan to Linux Mint"
 weight: 2
 resources:
 params:
-date: 2024-06-05T18:00:53-05:00
+date: 2024-12-05T18:00:53-05:00
 showDate: false
 draft: false
 tags: ["blog"]
